@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  text-align: center;
+}
+.name {
+  background-color: #6d9886;
+  text-align: center;
+  position: relative;
+  padding-top: 100px;
+}
+
+h1 {
+  color: #212121;
+  font-size: 50px;
+  font-family: "Festive", cursive;
+}
+p {
+  font-family: "Italianno", cursive;
+  font-size: 40px;
+}
+.bottom-cloud {
+  position: absolute;
+}
+.top-cloud {
+  position: absolute;
+  right: 450px;
+  bottom: 500px;
+}

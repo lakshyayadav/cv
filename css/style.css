@@ -4,7 +4,7 @@ body {
 hr {
   border-style: dotted none none none;
   border-color: grey;
-  width: 100%;
+  width: 10%;
   border-width: 5px;
   height: 0px;
 }
@@ -17,4 +17,8 @@ h2 {
 }
 h3 {
   color: #66bfbf;
+}
+img{
+  height: 250px;
+  width: 250px;
 }
