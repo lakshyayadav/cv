@@ -22,6 +22,7 @@ h1 {
 .nice {
   font-family: "Italianno", cursive;
   font-size: 250%;
+  font-weight: normal;
 }
 .bottom-cloud {
   position: absolute;
