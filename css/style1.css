@@ -57,50 +57,41 @@ hr {
   margin: auto auto;
 }
 .skills {
-  margin: 30px auto;
+  margin-top: 30px;
 }
 .skill-row {
-  text-align: left;
-  margin: 20px auto 50px 550px;
-}
-.skill-row p {
   width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
 }
-h2 {
-  font-size: 220%;
-  font-family: "Berkshire Swash", cursive;
-}
+
 .frontend {
   width: 150px;
   height: 150px;
   border-radius: 100%;
   float: left;
-  margin-right: 20px;
+  margin-right: 30px;
 }
-
 .datastrucure-image {
   width: 150px;
   height: 150px;
   border-radius: 100%;
   float: right;
-  margin-right: 550px;
-  margin-left: 20px;
-}
-.datastructues-para {
-  text-align: right;
-}
-.datastructure-head {
-  text-align: right;
+  margin-left: 30px;
 }
 .sports-image {
   width: 150px;
   height: 150px;
   border-radius: 100%;
   float: left;
-  margin-right: 20px;
+  margin-right: 30px;
+}
+h2{
+  font-size: 220%;
+  font-family: "Berkshire Swash", cursive;
 }
 .contact-me {
-  margin-top: 30px;
+  margin-top: 100px;
 }
 .contact-me h3 {
   margin: 30px;
