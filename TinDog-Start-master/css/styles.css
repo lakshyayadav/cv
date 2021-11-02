@@ -80,3 +80,10 @@ h2 {
 .companyimage {
   width: 15%;
 }
+#pricing {
+  text-align: center;
+  padding: 100px;
+}
+.pricing-column {
+  padding: 3% 2%;
+}
