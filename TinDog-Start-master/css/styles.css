@@ -51,6 +51,32 @@ h1 {
   color: #ef8172;
   margin-bottom: 1rem;
 }
-.icon:hover{
+.icon:hover {
   color: #ff4c68;
+}
+h2 {
+  font-family: "Montserrat-bold";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+#testimonials {
+  color: #fff;
+
+  text-align: center;
+  background-color: #ef8172;
+}
+.image-dog {
+  width: 15%;
+  border-radius: 100%;
+}
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+.companyimage {
+  width: 15%;
 }
