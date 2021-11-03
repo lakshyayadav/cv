@@ -6,7 +6,7 @@ body {
   color: #fff;
 }
 .container-fluid {
-  padding: 3% 15%;
+  padding: 3% 15% 7%;
 }
 h1 {
   font-size: 3.5rem;
@@ -33,9 +33,13 @@ h1 {
 .tittle-img {
   width: 60%;
   transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
 }
 #features {
   text-align: center;
+  position: relative;
+  background-color: #fff;
 }
 .features-box {
   padding: 5%;
